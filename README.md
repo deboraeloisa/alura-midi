@@ -8,3 +8,4 @@ Criamos uma função que reproduz o som dos instrumentos musicais armazenados de
 Agora, por exemplo, se clicarmos em uma tecla do Alura MIDI, será reproduzido um som. Da mesma forma, podemos usar a navegação via teclado. Se pressionarmos "Enter" ou "Barra de espaço", o som da tecla selecionada também é reproduzido.
 
 Aprendemos a fazer um código otimizado, percorrendo todos os botões, reduzindo a repetição de código, e aumentando o reaproveitamento e a manutenção desse código.
+![image](https://github.com/user-attachments/assets/9cb022f6-4110-49ef-ba4b-24529fdbfd0e)
